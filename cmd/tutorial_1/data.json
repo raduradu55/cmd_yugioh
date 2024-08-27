@@ -1,0 +1,85 @@
+{
+    "cards": {
+        "monsters": [
+            {
+                "Attack": 1000,
+                "Defense": 1000,
+                "Description": "",
+                "Destroyed": false,
+                "Id": 97,
+                "Name": "monster1"
+            },
+            {
+                "Attack": 1500,
+                "Defense": 900,
+                "Description": "",
+                "Destroyed": false,
+                "Id": 98,
+                "Name": "monster2"
+            },
+            {
+                "Attack": 500,
+                "Defense": 2000,
+                "Description": "",
+                "Destroyed": false,
+                "Id": 99,
+                "Name": "monster3"
+            }
+        ],
+        "spells": [
+            {
+                "Description": "",
+                "Destroyed": false,
+                "Effect": "",
+                "Id": 65,
+                "Name": "unicorn horn",
+                "Spell_type": 2
+            },
+            {
+                "Description": "",
+                "Destroyed": false,
+                "Effect": "",
+                "Id": 66,
+                "Name": "sougen",
+                "Spell_type": 3
+            }
+        ],
+        "traps": null
+    },
+    "characters": [
+        {
+            "Decks": [
+                {
+                    "Cards": "abababab",
+                    "Name": "uno"
+                },
+                {
+                    "Cards": "abababABABAB",
+                    "Name": "due"
+                },
+                {
+                    "Cards": "aaaaaaaaaaaaaaaaaaaa",
+                    "Name": "ciao"
+                }
+            ],
+            "Name": "nuovo"
+        },
+        {
+            "Decks": [
+                {
+                    "Cards": "bbcbaacbabaaaacBBAAAABABABBABB",
+                    "Name": "prova"
+                },
+                {
+                    "Cards": "aacaaaaabaaacbcBAAAABAABBABBAB",
+                    "Name": "prova"
+                },
+                {
+                    "Cards": "bbcacaabbacbabcBAABBBBBABAABBA",
+                    "Name": "prova"
+                }
+            ],
+            "Name": "rngChar"
+        }
+    ]
+}
